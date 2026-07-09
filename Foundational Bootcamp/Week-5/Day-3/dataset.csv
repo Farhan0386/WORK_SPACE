@@ -1,0 +1,81 @@
+Timestamp,Country,State,Latitude,Longitude,Temperature,QualityFlag
+2018-01-01,India,Maharashtra,19.1,72.9,28.37,0
+2018-01-01,India,Tamil Nadu,13.1,80.3,30.9,0
+2018-01-01,USA,California,36.8,-119.4,15.66,0
+2018-01-01,USA,Texas,31.0,-99.9,24.15,0
+2018-01-01,Brazil,Sao Paulo,-23.5,-46.6,21.98,0
+2018-01-01,Brazil,Bahia,-12.9,-38.5,28.06,0
+2018-01-01,Australia,New South Wales,-33.9,151.2,16.08,0
+2018-01-01,Australia,Queensland,-20.9,144.0,25.56,0
+2019-01-01,India,Maharashtra,19.1,72.9,36.32,1
+2019-01-01,India,Tamil Nadu,13.1,80.3,29.94,0
+2019-01-01,USA,California,36.8,-119.4,17.18,0
+2019-01-01,USA,Texas,31.0,-99.9,23.81,0
+2019-01-01,Brazil,Sao Paulo,-23.5,-46.6,21.58,0
+2019-01-01,Brazil,Bahia,-12.9,-38.5,27.44,0
+2019-01-01,Australia,New South Wales,-33.9,151.2,16.52,0
+2019-01-01,Australia,Queensland,-20.9,144.0,24.51,0
+2020-01-01,India,Maharashtra,19.1,72.9,27.02,0
+2020-01-01,India,Tamil Nadu,13.1,80.3,31.35,0
+2020-01-01,USA,California,36.8,-119.4,16.99,0
+2020-01-01,USA,Texas,31.0,-99.9,24.78,0
+2020-01-01,Brazil,Sao Paulo,-23.5,-46.6,,0
+2020-01-01,Brazil,Bahia,-12.9,-38.5,27.28,0
+2020-01-01,Australia,New South Wales,-33.9,151.2,16.26,0
+2020-01-01,Australia,Queensland,-20.9,144.0,25.27,0
+2021-01-01,India,Maharashtra,19.1,72.9,28.08,0
+2021-01-01,India,Tamil Nadu,13.1,80.3,30.76,0
+2021-01-01,USA,California,36.8,-119.4,17.62,0
+2021-01-01,USA,Texas,31.0,-99.9,23.23,0
+2021-01-01,Brazil,Sao Paulo,-23.5,-46.6,23.79,0
+2021-01-01,Brazil,Bahia,-12.9,-38.5,28.16,0
+2021-01-01,Australia,New South Wales,-33.9,151.2,15.6,0
+2021-01-01,Australia,Queensland,-20.9,144.0,25.7,0
+2022-01-01,India,Maharashtra,19.1,72.9,35.49,1
+2022-01-01,India,Tamil Nadu,13.1,80.3,31.03,0
+2022-01-01,USA,California,36.8,-119.4,16.47,0
+2022-01-01,USA,Texas,31.0,-99.9,22.9,0
+2022-01-01,Brazil,Sao Paulo,-23.5,-46.6,22.17,0
+2022-01-01,Brazil,Bahia,-12.9,-38.5,26.49,0
+2022-01-01,Australia,New South Wales,-33.9,151.2,16.75,0
+2022-01-01,Australia,Queensland,-20.9,144.0,,0
+2023-01-01,India,Maharashtra,19.1,72.9,33.37,1
+2023-01-01,India,Tamil Nadu,13.1,80.3,30.58,0
+2023-01-01,USA,California,36.8,-119.4,18.01,0
+2023-01-01,USA,Texas,31.0,-99.9,24.54,0
+2023-01-01,Brazil,Sao Paulo,-23.5,-46.6,21.88,0
+2023-01-01,Brazil,Bahia,-12.9,-38.5,26.9,0
+2023-01-01,Australia,New South Wales,-33.9,151.2,20.27,1
+2023-01-01,Australia,Queensland,-20.9,144.0,,0
+2024-01-01,India,Maharashtra,19.1,72.9,27.55,0
+2024-01-01,India,Tamil Nadu,13.1,80.3,29.57,0
+2024-01-01,USA,California,36.8,-119.4,16.88,0
+2024-01-01,USA,Texas,31.0,-99.9,22.86,0
+2024-01-01,Brazil,Sao Paulo,-23.5,-46.6,23.01,0
+2024-01-01,Brazil,Bahia,-12.9,-38.5,27.52,0
+2024-01-01,Australia,New South Wales,-33.9,151.2,15.29,0
+2024-01-01,Australia,Queensland,-20.9,144.0,25.09,0
+2025-01-01,India,Maharashtra,19.1,72.9,28.28,0
+2025-01-01,India,Tamil Nadu,13.1,80.3,31.92,0
+2025-01-01,USA,California,36.8,-119.4,16.77,0
+2025-01-01,USA,Texas,31.0,-99.9,24.26,0
+2025-01-01,Brazil,Sao Paulo,-23.5,-46.6,23.0,0
+2025-01-01,Brazil,Bahia,-12.9,-38.5,28.76,0
+2025-01-01,Australia,New South Wales,-33.9,151.2,15.23,0
+2025-01-01,Australia,Queensland,-20.9,144.0,24.53,0
+2026-01-01,India,Maharashtra,19.1,72.9,34.29,1
+2026-01-01,India,Tamil Nadu,13.1,80.3,28.78,0
+2026-01-01,USA,California,36.8,-119.4,19.01,0
+2026-01-01,USA,Texas,31.0,-99.9,27.5,0
+2026-01-01,Brazil,Sao Paulo,-23.5,-46.6,20.81,0
+2026-01-01,Brazil,Bahia,-12.9,-38.5,27.32,0
+2026-01-01,Australia,New South Wales,-33.9,151.2,,0
+2026-01-01,Australia,Queensland,-20.9,144.0,24.83,0
+2027-01-01,India,Maharashtra,19.1,72.9,28.19,0
+2027-01-01,India,Tamil Nadu,13.1,80.3,35.27,1
+2027-01-01,USA,California,36.8,-119.4,17.94,0
+2027-01-01,USA,Texas,31.0,-99.9,30.66,1
+2027-01-01,Brazil,Sao Paulo,-23.5,-46.6,26.85,1
+2027-01-01,Brazil,Bahia,-12.9,-38.5,29.55,0
+2027-01-01,Australia,New South Wales,-33.9,151.2,17.01,0
+2027-01-01,Australia,Queensland,-20.9,144.0,,0
