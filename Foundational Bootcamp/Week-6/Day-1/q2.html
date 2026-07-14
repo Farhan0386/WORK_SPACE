@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        hr {
+            width: 50%;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+        }
+
+        p {
+            max-width: 600px;
+            margin: 20px auto;
+            line-height: 1.6;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is my first HTML page</h1>
+    <p>This is my github profile: <a href="https://github.com/Farhan0386">Visit GitHub</a></p>
+    <hr>
+    <img src="image.jpeg" alt="Forest with sunlight" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"><hr>
+    <p>This is a sample paragraph to demonstrate the structure of an HTML document. You can add more content here as needed.</p>
+    <table aria-label="Personal Information" ">
+        <thead>
+            <th>Name</th>
+            <th>Age</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>John Doe</td>
+                <td>30</td>
+            </tr>
+            <tr>
+                <td>Jane Smith</td>
+                <td>25</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <form aria-label="Contact Form" action="/submit" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="text">Text:</label>
+        <textarea id="text" name="text" rows="1" cols="50" required></textarea><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
