@@ -6,6 +6,7 @@ def count(n):
         n=n//10
     return total
 print(count(6143))
+print()
 print("By Recusrion")
 def count1(n):
     if n==0 or n==1:
